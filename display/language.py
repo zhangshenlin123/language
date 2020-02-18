@@ -1,0 +1,51 @@
+
+language['en_US'] = {
+    'Available' : 'Available Now',
+    'Until'     : 'Until',
+    'Use Now'   : 'Use Now',
+    'End Now'   : 'End Now',
+    'Extend'    : 'Extend',
+    'Loading...': 'Loading...',
+    'Back'      : 'Back',
+    'min'       : 'min',
+    'Till Next' : 'Till Next',
+    'Occupied'  : 'Occupied',
+    'No Upcoming Events' : 'No Upcoming Events',
+    'Connecting...'      : 'Connecting...',
+    'No Calendar': 'No Calendar',
+    'No Title'   : 'No Title',
+}
+
+language['zh_CN'] = {
+    'Available' : '空闲中',
+    'Until'     : '直至',
+    'Use Now'   : '使用',
+    'End Now'   : '结束',
+    'Extend'    : '延期',
+    'Loading...': '加载中...',
+    'Back'      : '返回',
+    'min'       : '分',
+    'Till Next' : '直到下一场',
+    'Occupied'  : '会议进行中',
+    'No Upcoming Events' : '暂无计划',
+    'Connecting...'      : '连接中...',
+    'No Calendar': '未绑定日历',
+    'No Title'   : '无标题',
+}
+
+language['zh_HK'] = {
+    'Available' : '空閒中',
+    'Until'     : '直至',
+    'Use Now'   : '使用',
+    'End Now'   : '結束',
+    'Extend'    : '延期',
+    'Loading...': '加載中...',
+    'Back'      : '返回',
+    'min'       : '分',
+    'Till Next' : '直到下一場',
+    'Occupied'  : '會議進行中',
+    'No Upcoming Events' : '暫無計劃',
+    'Connecting...'      : '連接中...',
+    'No Calendar': '未綁定行事曆',
+    'No Title'   : '無標題',
+}
