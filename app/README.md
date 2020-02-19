@@ -21,7 +21,7 @@
 - SENSOR_SETTING_RESULT : Text used in sensor setting result interface
 - EVENTS_COMMON : Events common text
 - EXPORT_COMMON : Export common text
-- SETTING_COMMON : Setting common text
+-  SETTING_COMMON : Setting common text
 
 
 ## Tips
