@@ -1,6 +1,6 @@
 ## Description
 
-- APP_COMMON :  App common text
+- APP_COMMON : App common text
 - APP_INFO : App title
 - PRODUCT_COMMON : Text used by the product interface
 - DEVICE_COMMON : Device common text
