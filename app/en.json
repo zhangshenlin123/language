@@ -1,4 +1,4 @@
-﻿{
+{
     "APP_INFO": {
         "APP_NAME": "SyncSign"
     },
@@ -47,8 +47,10 @@
         "ENTER":"Enter...",
         "NOT_EMPTY":"The fields cannot be empty.",
         "ADD_HUB":"Add a Hub",
-        "ADD_NODES":"Add nodes"
-    },
+        "ADD_NODES":"Add nodes",
+        "SUBMIT": "Submit"
+
+    }, 
     "PRODUCT_COMMON": {
         "SELECT_PRODUCT":"Select Product",
         "HUB":"Hub",
@@ -57,6 +59,7 @@
         "4_2_DISPLAY":"4.2 Display",
         "7_5_DISPLAY":"7.5 Display",
         "SENSOR":"Sensor",
+        "TABLET":"Tablet",
         "CLIMATE_SENSOR":"Climate Sensor",
         "OCCUPANCY_SENSOR":"Occupancy Sensor"
     },
@@ -133,7 +136,7 @@
     },
     "CALENDAR_COMMON": {
         "CALENDARS": "Calendars",
-        "CALENDAR_NAME": "Calendar Name",
+        "CALENDAR_NAME": "Calendar Name", 
         "LOAD_CALENDAR": "Loading calendars...",
         "CALENDAR_LOAD_FAIL": "Failed to load the calendar list. This may be due to network conditions. Please try again later.",
         "ADD_SUCCESS": "Add Calendar Success",
@@ -266,7 +269,21 @@
         "SETUP_FAILED": "Setup failed, please try again.",
         "NOT_EXIST": "The current device does not exist. Please rescan.",
         "SUCCESSFUL_LINK": "Successful link.",
-        "REMINDER": "Reminder"
+        "REMINDER": "Reminder",
+        "AFTER_THE_HUB_FLASHES": " After the hub flashes the breathing light, press and hold the hutton on the top of the hub until the blue breathing light flashes to enter the 'Setup Mode'.",
+        "CANNOT_BE_ADDED": "If your Ethernet cannot be added this way,",
+        "CLICK_HERE": "click here",
+        "TO_USE_ANOTHER_WAY": "to use another way",
+        "GENERATE_SETUP_TOKEN": "Generate Setup Token",
+        "SETUP_TOKEN": "Setup Token",
+        "GENERATE": "Generate",
+        "COPY": "Copy",
+        "REFRESH": "Refresh",
+        "EXPIRE": "* Setup token will expire in 10 minutes",
+        "WEB_PORTAL": "Access the Hub Web Portal",
+        "HOW_TO_ACCESS_WEB": "to see how to access the Hub Web Portal.",
+        "LINK_HUB_ACCOUNT": "Link Hub with an Account",
+        "LINK_HUB_ACCOUNT_MASSAGE": "to see how to link Hub with an Account at the Hub Web Portal."
     },
     "SELECT_SETUP_MODE": {
         "PLEASE_SELECT_MODE": "Please select a type of network that the Hub will connect to:",
@@ -458,6 +475,7 @@
         "SELECT_COUNTRY": "Locale",
         "SELECT_TIME_FORMAT": "Time Format",
         "ENGLISH_US": "English (US)",
+        "GERMANY": "Germany",
         "CHINESE_S": "Chinese (Simplified)",
         "CHINESE_HK": "Chinese (Hong Kong)",
         "ENGLISH_UK": "English (UK)"
@@ -590,4 +608,5 @@
         "CHECK_CODE":"Check Code",
         "ENTER_THE_CODE":"Please enter the code"
     }
+
 }
