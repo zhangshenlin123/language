@@ -1,4 +1,21 @@
 
+language['de_DE'] = {
+    'Available' : 'Verfügbar',
+    'Until'     : 'Bis',
+    'Use Now'   : 'Buchen',
+    'End Now'   : 'Beenden',
+    'Extend'    : 'Verlängern',
+    'Loading...': 'Lade...',
+    'Back'      : 'Zurück',
+    'min'       : 'min',
+    'Till Next' : 'Bis nächste',
+    'Occupied'  : 'Besetzt',
+    'No Upcoming Events' : 'Keine weiteren Buchungen',
+    'Connecting...'      : 'Verbinde...',
+    'No Calendar': 'Kein Kalender',
+    'No Title'   : 'Kein Titel',
+}
+
 language['en_US'] = {
     'Available' : 'Available Now',
     'Until'     : 'Until',

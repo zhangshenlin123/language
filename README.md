@@ -7,9 +7,15 @@ Please clone or download. After you change the file, you can submit a pull reque
 
 ## Description
 
-- **APP**: Once the translation file is provided, the SyncSign APP can support any language.
+- **APP**: As long as the translation file is provided, the SyncSign APP can support your language after we release it.
 - **Display**: Due to the limited space for a display to store fonts, please contact us first to ask if the display supports your language.
 
 ## Tips
 
 - Please use UTF-8 format to ensure the text is correct, we recommend you use a [Sublime Text](https://www.sublimetext.com/3) editor.
+
+## Contributors ✨
+
+Thanks go to these wonderful people:
+
+- Daniel Wanitsch
